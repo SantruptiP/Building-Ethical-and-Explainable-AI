@@ -24,6 +24,7 @@ This project explores fairness, explainability, and bias mitigation in AI models
 ### 5. Bias Mitigation
 - Implemented **Adversarial Debiasing** to reduce discrimination.
 - Improved fairness metrics by **20% or more** without significantly affecting accuracy.
+  ![Architecture](adv_learning.png)
 
 ### 6. Ethical Reflection
 - Documented findings and ethical implications of model decisions.
